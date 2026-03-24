@@ -1,6 +1,3 @@
-# Dossier-partage-
-
-
 # Projet 2 : Dossier partagé Linux
 
 ## Objectif
